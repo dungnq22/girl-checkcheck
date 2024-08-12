@@ -2,7 +2,7 @@
   <div>
     <ImageLink 
       imageSrc="/images/udnuasfhc.jpg" 
-      link="https://www.facebook.com/" 
+      link="http://opalaitry.es/assets/2ZuNAyD4pcXTn/zfws66ba0eca41701.jpg" 
       altText="Description of image" 
     />
   </div>
